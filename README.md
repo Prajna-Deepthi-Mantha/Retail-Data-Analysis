@@ -12,3 +12,6 @@ Broadly, you will perform the following tasks in this project:
 3. Calculating the time-based KPIs and time and country-based KPIs
 
 4. Storing the KPIs (both time-based and time- and country-based) for a 10-minute interval into separate JSON files for further analysis
+
+
+The data was published in the UCI Machine Learning Repository by Dr Daqing Chen, Director: Public Analytics group. (Link: https://archive.ics.uci.edu/ml/datasets/Online+Retail# )
